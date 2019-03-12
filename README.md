@@ -1,7 +1,7 @@
 # easy-mern-with-mysql
 ## Description
 An easy example of MERN server with MySQL, Express, React, Node. 
-I Made it just for didactic goals but maybe you can use for start an app.
+I Made it just for didactic goals but maybe you can use for start an app. Here i recorded the videotutorial: https://www.youtube.com/watch?v=c8hE83mueFo&t=1759s
 The use is very simple, there are two folders. 
 In the API folder you have all the node-express-mysql module in the file index.js.
 First i created a mysql connection, then started the express server and finally made 3 app.get() requests to CREATE, READ or DELETE values from the db.
